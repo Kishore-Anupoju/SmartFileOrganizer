@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/history.log
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+# Generated folders created by the agent
+Documents/
+Images/
+Archives/
+Others/

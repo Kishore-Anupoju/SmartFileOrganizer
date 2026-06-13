@@ -1,0 +1,21 @@
+{
+    "watch_folder": "Downloads",
+    "categories": {
+        ".pdf": "Documents",
+        ".docx": "Documents",
+        ".txt": "Documents",
+
+        ".jpg": "Images",
+        ".jpeg": "Images",
+        ".png": "Images",
+
+        ".mp4": "Videos",
+        ".mkv": "Videos",
+
+        ".zip": "Archives",
+        ".tar": "Archives",
+        ".gz": "Archives"
+    },
+
+    "default_category": "Others"
+}
