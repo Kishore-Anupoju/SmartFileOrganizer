@@ -18,3 +18,12 @@ Documents/
 Images/
 Archives/
 Others/
+
+# Environment variables
+.env
+
+# Python virtual environments
+.venv/
+
+# SQLite databases (future)
+*.db

@@ -1,0 +1,7 @@
+Invoice Number: 10001
+
+Customer: ABC Corp
+
+Amount Due: $5000
+
+Payment Terms: Net 30
