@@ -1,0 +1,4 @@
+John Doe
+Python Developer
+AWS Certified Solutions Architect
+5 years experience in cloud computing
